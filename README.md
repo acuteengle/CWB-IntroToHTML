@@ -1,4 +1,3 @@
 # Coding with Beng - Intro to HTML
 
-Tutorial video:
-https://www.youtube.com/watch?v=3frk2hZoSrU&ab_channel=CodingwithBeng
+Tutorial video: https://www.youtube.com/watch?v=2KCZ-PsZSOE&ab_channel=CodingwithBeng
